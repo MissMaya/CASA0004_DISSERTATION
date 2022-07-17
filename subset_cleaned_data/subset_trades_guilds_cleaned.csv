@@ -1,0 +1,125 @@
+﻿id,name,other_trades,other_trades_parenth,role_primary,relation_to,guild_memberships,seller_descriptions,maker_descriptions,material,qualifier_im,seller_trades,seller_trades_parenth,maker_trades,maker_trade_parentheses_1,maker_qualifier
+1,ABRAHAM,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1,ABRAHAM,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1,ABRAHAM,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+91,THOMPSON,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,(in wood),Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+91,THOMPSON,Unknown,Unknown,Unknown,Unknown,Stationers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+146,BEDFORD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+146,BEDFORD,Unknown,Unknown,Unknown,Unknown,Clockmakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+146,BEDFORD,Unknown,Unknown,Unknown,Unknown,Stationers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+146,BEDFORD,Unknown,Unknown,Engraver,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+151,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+151,ADAMS,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+214,ABBOTT,Unknown,Unknown,Unknown,Unknown,Clockmakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+349,EGLINTON,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+349,EGLINTON,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+380,SAUNDERS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+380,SAUNDERS,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+548,ABBOTT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+548,ABBOTT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+548,ABBOTT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Tortoiseshell,Unknown,Unknown,Unknown,Unknown
+548,ABBOTT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+548,ABBOTT,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+792,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+792,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1122,AARON,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1132,ACCUM,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1316,SAUNDERS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+1316,SAUNDERS,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1670,AARON & SON,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1671,AARON & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1983,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+1983,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+1983,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1983,ADAMS,Unknown,Unknown,Unknown,Unknown,Blacksmiths,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1984,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1984,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1984,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Optical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1984,ADAMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1984,ADAMS,Unknown,Unknown,Unknown,Unknown,Blacksmiths,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2028,CARPENTER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2028,CARPENTER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2028,CARPENTER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2175,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Thermometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Thermometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Thermometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Thermometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Thermometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Thermometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Barometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Barometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Barometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Barometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Barometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Barometer,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Optical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2268,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2602,ABRAHAM,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2602,ABRAHAM,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2772,BYARD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+2772,BYARD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+2772,BYARD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2772,BYARD,Unknown,Unknown,Unknown,Unknown,Blacksmiths,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2806,\,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2875,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2875,DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3010,BROOKS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3010,BROOKS,Unknown,Unknown,Unknown,Unknown,Blacksmiths,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3010,BROOKS,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3272,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3272,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Optical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3449,MARRATT,Unknown,Unknown,Unknown,Unknown,Blacksmiths,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3481,LOWE,Unknown,Unknown,Unknown,Unknown,Blacksmiths,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3626,COHEN,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3626,COHEN,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4100,CARPENTER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4309,ABRAHAM & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4309,ABRAHAM & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4309,ABRAHAM & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4593,ABRAHAM & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4593,ABRAHAM & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4593,ABRAHAM & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Optical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4594,ABRAHAM & DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4594,ABRAHAM & DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4594,ABRAHAM & DANCER,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Optical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4600,HARRIS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Globe,Unknown,Unknown
+4600,HARRIS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Globe,Unknown,Unknown
+4600,HARRIS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4600,HARRIS,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4606,BENTLEY,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+5391,BENTLEY,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+5395,AGATE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Spectacle,Unknown,Unknown
+5395,AGATE,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6008,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Philosophical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6008,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Mathematical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6008,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6036,ABRAHAM,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Optical,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6036,ABRAHAM,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6549,DANCER & CO.,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+8452,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+8452,WOOD,Unknown,Unknown,Unknown,Unknown,Spectaclemakers,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+9842,WOOD,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Watch,Unknown,Unknown
+9842,WOOD,Unknown,Unknown,Manufacturer,chronometer,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1132,ACCUM,chemist ,experimental,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1132,ACCUM,lecturer,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+9262,GARDEN,chemist ,operative,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
